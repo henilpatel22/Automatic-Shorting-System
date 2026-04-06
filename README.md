@@ -1,6 +1,6 @@
 # 🗂 Smart Automatic File Organizer
 
-![App Screenshot](screenshots/app_preview.png)
+![App Screenshot](screenshots/app_main_preview.png)
 
 A professional, real-time file organization system for Windows with **AI-powered Music Mood Classification**.
 
