@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+build/
+dist/
+
+# Project Specific
+config.json
+organizer.log
+*.exe
+
+# IDEs
+.vscode/
+.idea/
